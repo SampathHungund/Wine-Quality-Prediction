@@ -1,0 +1,7 @@
+##### Wine Qulaity Prediction Using Machine Learning ####
+
+Required python libraries :
+> Numpy 
+> Pandas 
+> sklearn
+> scikit-learn
