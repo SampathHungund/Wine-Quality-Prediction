@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
-data = pd.read_csv('C:\\Users\\sampathkumar\\OneDrive\\Desktop\\winequality-red.csv')
+data = pd.read_csv('Upload the csv file along with path')
 X = data.drop('quality', axis=1)
 y = data['quality']
 
